@@ -1,0 +1,5 @@
+.DS_Store
+*.log*
+docs/myutils/
+node_modules
+.history/
